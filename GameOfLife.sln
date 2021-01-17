@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{6AD191D1-D3D0-4F1B-BE51-43180D081B35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIConsole", "Console\UIConsole.csproj", "{B8450276-C55F-40D1-ADC1-C04682CE57AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD191D1-D3D0-4F1B-BE51-43180D081B35}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{6AD191D1-D3D0-4F1B-BE51-43180D081B35}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{6AD191D1-D3D0-4F1B-BE51-43180D081B35}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{6AD191D1-D3D0-4F1B-BE51-43180D081B35}.Release|anycpu.Build.0 = Release|Any CPU
+		{B8450276-C55F-40D1-ADC1-C04682CE57AB}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{B8450276-C55F-40D1-ADC1-C04682CE57AB}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{B8450276-C55F-40D1-ADC1-C04682CE57AB}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{B8450276-C55F-40D1-ADC1-C04682CE57AB}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BDB0C5-2CFC-4D4D-9589-C522D09C1417}
+	EndGlobalSection
+EndGlobal
